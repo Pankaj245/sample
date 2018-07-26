@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hii
 some changes
+=======
+this is oyr folder git commit
+>>>>>>> parent of 5f50df5... second commit
